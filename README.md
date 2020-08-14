@@ -66,7 +66,7 @@ pip install sklearn
 
 
 ### Get touch with Me
-Connect- [Linkedin](https://linkedin.com/in/rakibhhridoy)
+Connect- [Linkedin](https://linkedin.com/in/rakibhhridoy) <br>
 Website- [RakibHHridoy](https://rakibhhridoy.github.io)
 
 
